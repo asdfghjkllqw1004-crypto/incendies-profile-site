@@ -12,8 +12,8 @@ const DEFAULT_IMAGE_POSITION = "center 18%";
 
 const rehearsalPhotos = [
   {
-    title: "연습 사진",
-    caption: "무대가 되기 전의 시간",
+    title: "단체 사진",
+    caption: "무대가 되기 전의 무작 시간",
     image: "/images/rehearsal-main.jpg",
     size: "large",
   },
