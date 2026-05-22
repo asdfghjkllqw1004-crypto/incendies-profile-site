@@ -12,7 +12,7 @@ const DEFAULT_IMAGE_POSITION = "center 18%";
 
 const rehearsalPhotos = [
   {
-    title: "대표 연습 사진",
+    title: "연습 사진",
     caption: "무대가 되기 전의 시간",
     image: "/images/rehearsal-main.jpg",
     size: "large",
@@ -47,10 +47,10 @@ const actors = [
 ];
 
 const staff = [
-  { name: "임지우", role: "기획", quote: "화염을 보러 와주신 관객 여러분 감사합니다.", image: "/images/im-ji-woo.png", fallbackImage: "/images/임지우.png", imagePosition: "center 18%" },
-  { name: "박주희", role: "연출", quote: "흩어진 장면을 하나의 질문으로 묶습니다.", image: "/images/park-joo-hee.jpg", fallbackImage: "/images/박주희(1).jpg", imagePosition: "center 18%" },
-  { name: "배아현", role: "연출", quote: "배우의 호흡과 장면의 온도를 조율합니다.", image: "/images/bae-a-hyun.png", fallbackImage: "/images/배아현.png", imagePosition: "center 18%" },
-  { name: "전민지", role: "무대감독", quote: "보이지 않는 자리에서 무대의 시간을 움직입니다.", image: "/images/jeon-min-ji.png", fallbackImage: "/images/전민지.png", imagePosition: "center 18%" },
+  { name: "임지우", role: "기획", quote: "화염을 보러 와주신 관객 여러분 정말 감사합니다.", image: "/images/im-ji-woo.png", fallbackImage: "/images/임지우.png", imagePosition: "center 18%" },
+  { name: "박주희", role: "연출", quote: "여러분의 기억 속에 사그라지지 않을 불꽃으로 남길 바랍니다.", image: "/images/park-joo-hee.jpg", fallbackImage: "/images/박주희(1).jpg", imagePosition: "center 18%" },
+  { name: "배아현", role: "연출", quote: "여러분의 마음속에 오래도록 타오르는 불꽃으로 남길 바랍니다.", image: "/images/bae-a-hyun.png", fallbackImage: "/images/배아현.png", imagePosition: "center 18%" },
+  { name: "전민지", role: "무대감독", quote: "이 뜨거운 불꽃이 어디에 닿게 될지 함께 지켜봐 주세요.", image: "/images/jeon-min-ji.png", fallbackImage: "/images/전민지.png", imagePosition: "center 18%" },
   { name: "민채원", role: "조명", quote: "무대 위 작은 불빛들이 여러분의 마음 속에 불꽃처럼 오래 남길 바랍니다", image: "/images/min-chae-won.png", fallbackImage: "/images/민채원.png", imagePosition: "center 18%" },
   { name: "이수민", role: "음향", quote: "가장 뜨겁게 타오르는 순간을 들려드리겠습니다", image: "/images/lee-su-min-staff.jpg", fallbackImage: "/images/이수민(1).jpg", imagePosition: "center 18%" },
 ];
