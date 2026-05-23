@@ -112,7 +112,7 @@ const actors = [
   {
     name: "박지원",
     role: "배우",
-    character: "지한 말락",
+    character: "지한 / 말락 / 가이드",
     quote: "네 인생이 죄다 네 뺨 위로 흐르고 있어!",
     color: "from-neutral-950 to-red-950",
     image: "/images/park-ji-won.jpg",
