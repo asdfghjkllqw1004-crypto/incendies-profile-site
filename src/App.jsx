@@ -213,7 +213,7 @@ const staff = [
   {
     name: "박주희",
     role: "연출",
-    quote: "흩어진 장면을 하나의 질문으로 묶습니다.",
+    quote: "여러분의 기억 속에 사그라지지 않을 불꽃으로 남길 바랍니다.",
     image: "/images/park-joo-hee.jpg",
     fallbackImage: "/images/박주희(1).jpg",
     imagePosition: "center 18%",
@@ -221,7 +221,7 @@ const staff = [
   {
     name: "배아현",
     role: "연출",
-    quote: "배우의 호흡과 장면의 온도를 조율합니다.",
+    quote: "여러분의 마음속에 오래도록 타오르는 불꽃으로 남길 바랍니다.",
     image: "/images/bae-a-hyun.png",
     fallbackImage: "/images/배아현.png",
     imagePosition: "center 18%",
@@ -229,7 +229,7 @@ const staff = [
   {
     name: "전민지",
     role: "무대감독",
-    quote: "보이지 않는 자리에서 무대의 시간을 움직입니다.",
+    quote: "이 뜨거운 불꽃이 어디에 닿게 될지 함께 지켜봐 주세요.",
     image: "/images/jeon-min-ji.png",
     fallbackImage: "/images/전민지.png",
     imagePosition: "center 18%",
